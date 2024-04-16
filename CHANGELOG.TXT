@@ -1,4 +1,4 @@
-= 1.0.96 =
+= 1.0.9 =
 - Updated plugin to support WordPress version 6.5
 
 = 1.0.8 =
